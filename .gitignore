@@ -1,0 +1,13 @@
+# Bazaar VCS
+.bzr
+
+# Scratch Editor Temp Files
+*~
+
+# Generated binaries
+src/*
+!src/**/
+!src/*.vala
+
+# Build folder
+build
